@@ -1,7 +1,7 @@
 package com.example.cheese;
 
 public abstract class Shape {
-    private String color = "blue";
+    private String color = "green";
     private int x;
     private  int y;
 
