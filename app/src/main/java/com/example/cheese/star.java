@@ -1,4 +1,4 @@
 package com.example.cheese;
 
-public class star extends Shape{
+public class Star extends Shape{
 }
